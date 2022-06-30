@@ -35,3 +35,4 @@ make bonus
 ![Followers](https://img.shields.io/github/followers/junik1337?style=for-the-badge)
 ![Code size](https://img.shields.io/github/languages/code-size/junik1337/42cursus_philosophers?style=for-the-badge)
 ![Time](https://img.shields.io/date/1655996343?style=for-the-badge)
+
