@@ -30,9 +30,8 @@ cd philo_bonus/
 make bonus
 ./philo_bonus "number_of_philos" "time_to_die" "time_to_eat" "time_to_sleep" "number_of_times_each_philosopher_must_eat(optional argument)"
 ```
-![Made with c](https://forthebadge.com/images/badges/made-with-c.svg)
-![Languages](https://img.shields.io/github/languages/count/junik1337/42cursus_philosophers?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/junik1337?style=for-the-badge)
-![Code size](https://img.shields.io/github/languages/code-size/junik1337/42cursus_philosophers?style=for-the-badge)
-![Time](https://img.shields.io/date/1655996343?style=for-the-badge)
-
+![Made with c](https://forthebadge.com/images/badges/made-with-c.svg) 
+![Languages](https://img.shields.io/github/languages/count/junik1337/42cursus_philosophers?style=for-the-badge) 
+![Followers](https://img.shields.io/github/followers/junik1337?style=for-the-badge) 
+![Code size](https://img.shields.io/github/languages/code-size/junik1337/42cursus_philosophers?style=for-the-badge) 
+![Time](https://img.shields.io/date/1655996343?style=for-the-badge) 
