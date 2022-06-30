@@ -35,3 +35,4 @@ make bonus
 ![Code size](https://img.shields.io/github/languages/code-size/junik1337/42cursus_philosophers?style=for-the-badge) 
 ![Language %](https://img.shields.io/github/languages/top/junik1337/42cursus_philosophers?style=for-the-badge) 
 ![Time](https://img.shields.io/date/1655996343?style=for-the-badge) 
+<a href="https://profile.intra.42.fr/users/ayassir"><img src="https://img.shields.io/badge/School-Born2code-2ea44f?style=for-the-badge&logo=42" alt="School - Born2code"></a>
